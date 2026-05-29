@@ -1,0 +1,4 @@
+"managerID","date","country","gender","age","total_score","mean_score"
+1,2008-10-24,"US","Male",32,24,4.8
+2,2008-10-28,"US","Female",45,20,4
+3,2008-10-01,"UK","Female",25,20,4
